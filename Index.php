@@ -1,3 +1,3 @@
 <?php
-echo "Git Hub File GUI"
+echo "Git Hub File changed"
 ?>
